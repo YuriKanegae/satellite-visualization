@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vite": "^6.2.4"
+  },
+  "dependencies": {
+    "satellite.js": "^6.0.0",
+    "three": "^0.175.0"
+  }
+}
